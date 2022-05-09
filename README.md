@@ -10,7 +10,7 @@
 
   <p align="center">
     <br>
-    This is a Real-Time Calculator that improves on the default calculators of Windows and Mac OS, Aswell as being more efficient
+    This is a real-time calculator that is an improved version of the default calculators of Windows and Mac OS, as well as being more efficient.
     <br />
     <br>
     <a href="https://github.com/MartinGurasvili/Calculator/releases/download/v1.0.0/Calculator.app.zip"><h3><img style="width:2%"  alt="Screenshot 2022-02-17 at 8 12 25 pm" src="https://user-images.githubusercontent.com/76784461/154564937-57c93aa0-69f8-497c-97d6-33b1d7d411e0.png"> Install Now</h3></a>
