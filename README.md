@@ -14,8 +14,8 @@
     <br />
     <br>
     <br />
-    <a href="https://github.com/MartinGurasvili/Calculator/releases/download/v1.0.0/Calculator.app.zip"><h3><img style="width:2%"  alt="apple" src="https://user-images.githubusercontent.com/76784461/154564937-57c93aa0-69f8-497c-97d6-33b1d7d411e0.png"> Install Now</h3></a>
-    <p><a href="https://github.com/MartinGurasvili/Calculator/releases/download/v1.0.0w/Calculator.zip"><h3><img style="width:2%"  alt="win" src="https://pnggrid.com/wp-content/uploads/2021/06/Windows-11-Icon-Logo.png"> Install Now</h3></a>
+    <a href="https://github.com/MartinGurasvili/Calculator/releases/download/v1.0.0/Calculator.app.zip"><h3><img width="20px" height="20px"   alt="apple" src="https://user-images.githubusercontent.com/76784461/154564937-57c93aa0-69f8-497c-97d6-33b1d7d411e0.png"> Install Now</h3></a>
+    <p><a href="https://github.com/MartinGurasvili/Calculator/releases/download/v1.0.0w/Calculator.zip"><h3><img width="20px" height="20px"  alt="win" src="https://pnggrid.com/wp-content/uploads/2021/06/Windows-11-Icon-Logo.png"> Install Now</h3></a>
     <br></p>
     
   </p>
