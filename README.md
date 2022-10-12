@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://github.com/MartinGurasvili/Calculator">
-    <img width="200" height="200" alt="cas" src="https://user-images.githubusercontent.com/76784461/154561376-415aa48a-37a4-4a5b-81f9-400f2eb9d3b7.png">
+    <img width="200" height="200" alt="cas" src="https://user-images.githubusercontent.com/76784461/195410765-71b4cf8b-4f15-4c2f-ba03-2469a5ed8d9e.png">
   </a>
 
 
@@ -14,8 +14,8 @@
     <br />
     <br>
     <br />
-    <a href="https://github.com/MartinGurasvili/Calculator/releases/download/v1.0.0/Calculator.app.zip"><h3><img width="20px" height="20px"   alt="apple" src="https://user-images.githubusercontent.com/76784461/154564937-57c93aa0-69f8-497c-97d6-33b1d7d411e0.png"> Install Now</h3></a>
-    <p><a href="https://github.com/MartinGurasvili/Calculator/releases/download/v1.0.0w/Calculator.zip"><h3><img width="20px" height="20px"  alt="win" src="https://pnggrid.com/wp-content/uploads/2021/06/Windows-11-Icon-Logo.png"> Install Now</h3></a>
+    <a href="https://github.com/MartinGurasvili/Calculator/releases/download/v1.0.0/Calculator.app.zip"><strong><img width="20px" height="20px"   alt="apple" src="https://user-images.githubusercontent.com/76784461/154564937-57c93aa0-69f8-497c-97d6-33b1d7d411e0.png"> Install Now</strong></a>
+    <p><a href="https://github.com/MartinGurasvili/Calculator/releases/download/v1.0.0w/Calculator.zip"><strong><img width="20px" height="20px"  alt="win" src="https://pnggrid.com/wp-content/uploads/2021/06/Windows-11-Icon-Logo.png"> Install Now</strong></a>
     <br></p>
     
   </p>
@@ -39,7 +39,8 @@
 
    - [ ] Randomly Chosen Theme Each Time When Run
    - [ ] Runs More Efficient Then System Calculator
-   
+   - [ ] Responsive Design
+   - [ ] Can Calculate Pythonical Expressions
    - [ ] Only Most Commonly Used Operations
    - [ ] Always Stays Top - Unless Minimised
    
